@@ -1,0 +1,228 @@
+@font-face {
+  font-family: Pixel;
+  src: url(Minecraft.ttf);
+}
+
+
+body {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 0;
+ }
+
+.rgbbox {
+position: relative;
+width: 300px;
+height: 100x;
+border-radius: 10px;
+border: 2px solid black;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+#rbgtext {
+padding: 10px;
+text-align: center;
+}
+
+* {
+font-family: pixel;
+color: white;
+gap: 10px;
+}
+
+body {
+background-color: #2C4754;
+}
+input {
+width: 200px;
+height: auto;
+color: black;
+}
+
+button {
+width: 200px;
+height: 50px;
+border: 1px solid black;
+padding: 5px;
+color: black;
+font-size: 20px;
+}
+
+.container  {
+position: relative;
+width: 300px;
+height: 300px;
+}
+
+.Cosmetics img {
+position: absolute;
+width: 100%;
+height: 100%;
+z-index: 3;
+}
+
+
+#ColorBox {
+position: absolute;
+width: 100%;
+height: 100%;
+background-color: rgb(125, 125, 125);
+z-index: 1;
+}
+
+#pfp {
+position: absolute;
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+z-index: 2;
+
+}
+
+.sliders {
+display: flex;
+flex-direction: column;
+gap: 5px;
+}
+
+.Logo {
+position: absolute;
+top: 0px;
+right: 0px;
+height: 40px;
+width: 40px;
+}
+
+
+#RedV {
+color: rgb(255, 0, 0);
+}
+
+#GreenV {
+color: rgb(0, 255, 0);
+}
+
+#BlueV {
+color: rgb(0, 0, 255);
+}
+
+cosmeticButtons button {
+width: 100px;
+height: 25px;
+border: 1px solid black;
+padding: 5px;
+color: black;
+}
+
+
+#redC {
+color: rgb(255, 0, 0);
+}
+
+#greenC {
+color: rgb(0, 255, 0);
+}
+
+#blueC {
+color: rgb(0, 0, 255);
+}
+
+
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+overflow: hidden;
+background-color: #1f313b;
+width: 100%;
+height: 40px;
+}
+
+ul li {
+float: left;
+}
+
+ul li a {
+display: block;
+text-align: center;
+color: white;
+padding: 8px 8px;
+text-decoration: none;
+}
+
+ul li a:hover {
+background-color: #0c1f25;
+}
+
+.qotdBox {
+background-color: #815437; 
+background-image: url(motd.PNG);
+background-size: cover;
+width: 300px;
+height: 400px;
+}
+
+.qotdt {
+color: white;
+}
+
+#quoteEle {
+padding: auto;
+text-align: center; 
+}
+
+#headqotd {
+
+padding: auto;
+text-align: center; 
+}
+
+.card {
+width: 300px;
+height: auto;
+border: 2px solid #5789a4;
+border-radius: 5px;
+padding-top: 10px;
+background-color: #3c6073;
+box-shadow: 0 4px 8px #062535;
+}
+
+.card:hover {
+box-shadow: 0 12px 24px #062535;
+}
+
+
+.imagecont {
+height: 200px;
+width: 200px;
+}
+
+.profile {
+height: 200px;
+width: 200px;
+display: block;
+margin-left: 50px;
+margin-right: 10px;
+}
+
+.containerpf p {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  font-size: 10px;
+}
+
+.disclaimer {
+  font-size: 7px;
+}
+
