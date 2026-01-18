@@ -26,9 +26,9 @@ const r = redCS.value;
 const b = blueCS.value;
 const g = greenCS.value;
 
-let rr = Math.round((r / 9 ) * 255);
-let bb = Math.round((b / 9 )* 255);
-let gg = Math.round((g / 9 )* 255);
+let rr = Math.round((r / 10 ) * 255);
+let bb = Math.round((b / 10 )* 255);
+let gg = Math.round((g / 10 )* 255);
 
 const colorCode =
 `rgb(${rr}, ${gg}, ${bb})`;
