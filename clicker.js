@@ -1,6 +1,6 @@
    const upgrades = [
        { upgradeName: "doubleClick", upgradeCost: 500, owned: false },
-       { upgradeName: "tripleClick", upgradeCost: 100, owned: false }
+       { upgradeName: "AutoClicker", upgradeCost: 2500, owned: false }
    ];
 
 
@@ -80,5 +80,6 @@
    upg1Button.addEventListener("click", () => buyUpgrade(0, doubleClick));
    upg2Button.addEventListener("click", () => buyUpgrade(1, autoClicker));
    clickButton.addEventListener("click", () => buttonClicked());
+
 
 
