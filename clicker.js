@@ -19,7 +19,6 @@
        if (upgrade.owned) {
            console.log("you already own this!");
            alertText.textContent = "you already own this!";
-           alertText.style.animation = "opacityReversed 0.2s ease";
            setTimeout(() => {
                alertText.textContent = "";
            }, 1000);
@@ -29,7 +28,6 @@
        if (upgrade.upgradeCost <= clicks) {
            console.log(`you bought ${upgrade.upgradeName}`);
            alertText.textContent = `you bought ${upgrade.upgradeName}`;
-           alertText.style.animation = "opacityReversed 0.2s ease";
            setTimeout(() => {
                alertText.textContent = "";
            }, 1000);
@@ -41,7 +39,6 @@
            console.log(`you don't have enough clicks!`);
            console.log(`you bought ${upgrade.upgradeName}`);
            alertText.textContent = `you don't have enough clicks!`;
-           alertText.style.animation = "opacityReversed 0.2s ease";
            setTimeout(() => {
                alertText.textContent = "";
            }, 1000);
