@@ -1,5 +1,5 @@
    const upgrades = [
-       { upgradeName: "doubleCLick", upgradeCost: 500, owned: false },
+       { upgradeName: "doubleClick", upgradeCost: 500, owned: false },
        { upgradeName: "tripleClick", upgradeCost: 100, owned: false }
    ];
 
