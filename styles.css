@@ -226,3 +226,35 @@ footer {
   font-size: 7px;
 }
 
+@keyframes opacity {
+
+    0% {
+        opacity: 1;
+ 
+    }
+
+    100% {
+        opacity: 0.5;
+      
+    }
+}
+
+.opacity {
+    animation: opacity 0.2s ease;
+}
+
+
+#alert {
+position: fixed;
+}
+
+@keyframes opacityReversed {
+
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
