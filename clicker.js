@@ -4,7 +4,7 @@
    ];
 
 
-   let clicks = 500;
+   let clicks = 0;
 
    const upg1Button = document.getElementById("upgrade1");
    const upg2Button = document.getElementById("upgrade2");
