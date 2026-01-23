@@ -1,31 +1,29 @@
-<!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
  <link rel="stylesheet" href="styles.css">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content=" Generate a FREE profile picture! ">
-<meta name="robots" content="index, follow">
-<title> Halloween's GTAG Tools </title>
-</head>
 <body>
 
 <ul>
 <li><a href="profilegen.html">Profile Maker</a></li>
-
 <li><a href="colorcode.html">Color Code to RGB</a></li>
  <li><a href="cosgen.html">Outfit Gen</a></li>
  <li><a href="qotd.html">QOTD</a></li>
  <li><a href="trivia.html">Trivia</a></li>
   <li><a href="clicker.html">Clicker Game (WIP) </a></li>
   <li><a href="cosmeticfinder.html">GSearch</a></li>
-</ul>
-
+ </ul>
 <a href="index.html"><img class="Logo" src="namelogo.PNG"></a>
-<h1>Halloween's GTAG Tools</h1>
-<p>Welcome to Halloween's GTAG Tools! An interactive website full of Gorilla Tag related utilities and games! </p>
-<p>This website has games, utilities and more!</p>
-<p>Use the navigation bar to look around the pages! Make sure to share this to your friends as well!</p>
+
+<p>Welcome to GSearch, search up a Gorilla Tag cosmetic by it's name or cosmetic ID.</p>
+<p>Please Note: Adding the cosmetics is a manaul process, if a cosmetic does not show up, it is most likely not added. </p>
+<p>The cosmetics are hand drawn by @hallowween-gtag, so it takes a while to update the images as well. Some cosmetics might not have images!</p>
+
+<input type="text" id="inputText" placeholder="Search By Cosmetic Name">
+<p>or</p>
+<input type="text" id="inputTextId" placeholder="Search By Cosmetic ID">
+<p id="cosmeticInfoText"></p>
+<img src="" id="cosmeticImage" style="width: 100px; height: 100px;"> 
+
 <footer>
     
     <p>Created by halloween (@hallowween-gtag)</p>
@@ -34,8 +32,7 @@
 <p> Portions of the materials contained herein are property of Another Axiom. ©2021 Another Axiom Inc.</p>
 </div>
 </footer>
-
+<script src="cosmeticfinder.js"></script>
 </body>
-
-
+</head>
 </html>

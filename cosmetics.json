@@ -1,0 +1,361 @@
+[
+    {
+        "name": "aviators",
+        "id": "lfaan",
+        "price": "1000",
+        "source": "cosmetic-img/lfaan.png",
+        "group": "face"
+    },
+    {
+        "name": "banana hat",
+        "id": "lhaaa",
+        "price": "2000",
+        "source": "cosmetic-img/lhaaa.png",
+        "group": "hat"
+    },
+    {
+        "name": "cloche",
+        "id": "lhaam",
+        "price": "1000",
+        "source": "cosmetic-img/lhaam.png",
+         "group": "hat"
+    },
+    {
+        "name": "coconut",
+        "id": "lhaak",
+        "price": "2000",
+        "source": "cosmetic-img/lhaak.png",
+        "group": "hat"
+    },
+    {
+        "name": "cowboy hat",
+        "id": "lhaan",
+        "price": "1500",
+        "source": "cosmetic-img/lhaan.png",
+        "group": "hat"
+        
+    },
+    {
+        "name": "fez",
+        "id": "lhaao",
+        "price": "1000",
+        "source": "cosmetic-img/lhaao.png",
+        "group": "hat"
+    },
+     {
+        "name": "sunhat",
+        "id": "lhaal",
+        "price": "1000",
+        "source": "cosmetic-img/lhaal.png",
+        "group": "hat"
+    },
+    {
+        "name": "tortoiseshell sunglasses",
+        "id": "lfaam",
+        "price": "1000",
+        "source": "cosmetic-img/lfaam.png",
+        "group": "face"
+    },
+    {
+        "name": "top hat",
+        "id": "lhaap",
+        "price": "1000",
+        "source": "cosmetic-img/lhaap.png",
+        "group": "hat"
+    }, 
+    {
+        "name": "baseball cap",
+        "id": "lhaaf",
+        "price": "1000",
+        "source": "cosmetic-img/lhaaf.png",
+        "group": "hat"
+    }, 
+    {
+        "name": "basic beanie",
+        "id": "lhaaq",
+        "price": "1000",
+        "source": "cosmetic-img/lhaaq.png",
+        "group": "hat"
+    }, 
+    {
+        "name": "cat ears",
+        "id": "lhaab",
+        "price": "1000",
+        "source": "cosmetic-img/lhaab.png",
+        "group": "hat"
+    }, 
+    {
+        "name": "chefs hat",
+        "id": "lhabc",
+        "price": "2500",
+        "source": "cosmetic-img/lhabc.png",
+        "group": "hat"
+    }, 
+    {
+        "name": "flower crown",
+        "id": "lhaas",
+        "price": "2000",
+        "source": "cosmetic-img/lhaas.png",
+        "group": "hat"
+    }, 
+    {
+        "name": "forehead mirror",
+        "id": "lhaah",
+        "price": "2000",
+        "source": "cosmetic-img/lhaah.png",
+        "group": "face"
+    }, 
+    {
+        "name": "golden head",
+        "id": "lhaag",
+        "price": "5000",
+        "source": "cosmetic-img/lhaag.png",
+        "group": "hat"
+    }, 
+    {
+        "name": "headphones",
+        "id": "lhabp",
+        "price": "2000",
+        "source": "cosmetic-img/lhabp.png",
+        "group": "hat"
+    }, 
+        {
+        "name": "party hat",
+        "id": "lhaac",
+        "price": "500",
+        "source": "cosmetic-img/lhaac.png",
+        "group": "hat"
+    },
+    {
+        "name": "pineapple hat",
+        "id": "lhaai",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+    {
+        "name": "sweatband",
+        "id": "lhaae",
+        "price": "500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+    {
+        "name": "monke cap",
+        "id": "lhacy",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+    {
+        "name": "gorilla face cap",
+        "id": "lhacz",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+    {
+        "name": "banana logo cap",
+        "id": "lhacv",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+    {
+        "name": "ushanka",
+        "id": "lhaad",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+    {
+        "name": "white fedora",
+        "id": "lhaar",
+        "price": "1500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+     {
+        "name": "witch hat",
+        "id": "lhaaj",
+        "price": "1500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+     {
+        "name": "basic earrings",
+        "id": "lfaac",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "basic scarf",
+        "id": "lbaac",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "shirts"
+    },
+     {
+        "name": "big eyebrows",
+        "id": "lfaaa",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "boxy sunglasses",
+        "id": "lfabc",
+        "price": "2500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "double eyepatch",
+        "id": "lfaaj",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "eyebrow stud",
+        "id": "lfaae",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "goggles",
+        "id": "lfaak",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "left eyepatch",
+        "id": "lfaai",
+        "price": "500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "nose ring",
+        "id": "lfaab",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "right eyepatch",
+        "id": "lfaah",
+        "price": "500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+        {
+        "name": "round sunglasses",
+        "id": "lfaaq",
+        "price": "2200",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "skull mask",
+        "id": "lfaag",
+        "price": "2200",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "surgical mask",
+        "id": "lfaal",
+        "price": "500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+     {
+        "name": "triangle sunglasses",
+        "id": "lfaaf",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+     }, 
+    {
+        "name": "bowtie",
+        "id": "lbaab",
+        "price": "500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "badge"
+    },
+        {
+        "name": "canyon pin",
+        "id": "lbaag",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "badge"
+    },
+            {
+        "name": "city pin",
+        "id": "lbaah",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "badge"
+    },
+            {
+        "name": "crystals pin",
+        "id": "lbaaf",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "badge"
+    },
+     {
+        "name": "gorilla pin",
+        "id": "lbaai",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "badge"
+    },
+    {
+        "name": "mountain pin",
+        "id": "lbabh",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "badge"
+    },
+     {
+        "name": "neck scarf",
+        "id": "lbaaj",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "shirts"
+        
+    },
+    {
+        "name": "tree pin",
+        "id": "lbaaa",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "badge"
+    },
+        {
+        "name": "banana logo tee",
+        "id": "lbaca",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "shirts"
+    },
+        {
+        "name": "i love gt tee",
+        "id": "...",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "shirts"
+    },
+        {
+        "name": "gorilla tag flag",
+        "id": "lmabp",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "back"
+    }
+]

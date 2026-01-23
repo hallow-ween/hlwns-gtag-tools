@@ -220,6 +220,9 @@ a {
 
 footer {
   font-size: 10px;
+  position: static;
+  padding-top: 300px;
+  bottom: 0;
 }
 
 .disclaimer {
