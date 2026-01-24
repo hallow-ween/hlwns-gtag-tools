@@ -357,5 +357,39 @@
         "price": "1000",
         "source": "cosmetic-img/placeholder.png",
         "group": "back"
+        },
+        {
+        "name": "star balloon",
+        "id": "lmaap",
+        "price": "2000",
+        "source": "cosmetic-img/lmaap.png",
+        "group": "back"
+    },     {
+        "name": "diamond balloon",
+        "id": "lmaar",
+        "price": "1500",
+        "source": "cosmetic-img/lmaar.png",
+        "group": "back"
+    },
+        {
+        "name": "choclate donut balloon",
+        "id": "lmaas",
+        "price": "2500",
+        "source": "cosmetic-img/lmaas.png",
+        "group": "back"
+    },
+        {
+        "name": "heart balloon",
+        "id": "lmaat",
+        "price": "1500",
+        "source": "cosmetic-img/lmaat.png",
+        "group": "back"
+    },
+        {
+        "name": "pink donut balloon",
+        "id": "lmadb",
+        "price": "2500",
+        "source": "cosmetic-img/lmabd.png",
+        "group": "back"
     }
 ]
