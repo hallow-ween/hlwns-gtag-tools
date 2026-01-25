@@ -368,7 +368,7 @@
         "name": "diamond balloon",
         "id": "lmaar",
         "price": "1500",
-        "source": "cosmetic-img/lmaar.PNG,
+        "source": "cosmetic-img/lmaar.PNG",
         "group": "back"
     },
         {
