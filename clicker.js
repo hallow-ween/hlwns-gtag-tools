@@ -66,7 +66,17 @@
        clickButton.classList.remove("opacity");
        void clickButton.offsetHeight;
        clickButton.classList.add("opacity");
-
+ let critChance = 0;
+critChance += Math.floor(Math.random() * 100);
+   
+      if (critChance > 70) {
+        clicks += 1;
+        alertText.textContent = "Critical Click!";
+        setTimeout(() => {
+               alertText.textContent = "";
+           }, 1000);
+        critChance = 0;
+    }
 
        updateClicks();
    }
@@ -80,6 +90,7 @@
    upg1Button.addEventListener("click", () => buyUpgrade(0, doubleClick));
    upg2Button.addEventListener("click", () => buyUpgrade(1, autoClicker));
    clickButton.addEventListener("click", () => buttonClicked());
+
 
 
 
