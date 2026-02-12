@@ -99,15 +99,15 @@ width: 40px;
 }
 
 
-#RedV {
+#redLabel {
 color: rgb(255, 0, 0);
 }
 
-#GreenV {
+#greenLabel {
 color: rgb(0, 255, 0);
 }
 
-#BlueV {
+#blueLabel {
 color: rgb(0, 0, 255);
 }
 

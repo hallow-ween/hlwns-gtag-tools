@@ -19,12 +19,13 @@ const blueS =
 const greenS = 
   document.getElementById("GreenSlider");
 
-const redVal =
-  document.getElementById("RedV");
-const blueVal =
-  document.getElementById("BlueV");
-const greenVal =
-  document.getElementById("GreenV");
+
+  const redLabel =    
+  document.getElementById("redLabel");
+const blueLabel = 
+  document.getElementById("blueLabel");
+const greenLabel = 
+  document.getElementById("greenLabel");
 
 const colorBox =
   document.getElementById("ColorBox");
@@ -43,9 +44,9 @@ const updatedColor =
 colorBox.style.backgroundColor =
   updatedColor;
 
-redVal.textContent = "Red: " + Red;
-greenVal.textContent = "Green: " + Green;
-blueVal.textContent = "Blue: " + Blue;
+redLabel.textContent = "Red: " + Red;
+greenLabel.textContent = "Green: " + Green;
+blueLabel.textContent = "Blue: " + Blue;
 
 }
 
