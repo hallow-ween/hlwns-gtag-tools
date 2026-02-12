@@ -5,7 +5,7 @@ const arrayHat = [
   "banana hat", "fez", "sunhat", "cowboy hat", "fez", "sweatband", "baseball cap",
   "pineapple hat", "coconut hat", "santa hat", "elf hat", "snowman hat", "pumpkin hat",
   "pattern beanie", "stripe beanie", "blue beanie", "orange beanie", "heart beanie",
-  "plunger", "saucepan", "gt1", "gt2", "gt3", "gt4", "rain hat", "bunny ears",
+  "plunger", "saucepan", "rain hat", "bunny ears",
   "seagull", "pumpkin head", "pie hat", "scarecrow hat", "angel wings", "cloud hat",
   "rain deer hat", "snowman top hat", "ushanka"
 ];
@@ -16,7 +16,7 @@ const arrayCos = [
   "gold rose", "cookie jar", "black umbrella", "cloud umbrella", "cloud boots",
   "guitar", "electric guitar", "lightning makeup", "popsicle", "bubbler", "rubber duck",
   "sunburn", "sunscreen", "flamingo floatie", "candy bar", "slinky eyes",
-  "spider umbrella", "unicorn", "yorick", "frying pan", "finger olives", "ladle",
+  "spider umbrella", "unicorn", "yorick", "gt1", "gt2", "gt3", "gt4", "frying pan", "finger olives", "ladle",
   "tux tee", "cloud tee", "gingerbread man", "pudding", "mittens"
 ];
 

@@ -7,6 +7,7 @@
 <meta name="description" content=" Generate a FREE profile picture! ">
 <meta name="robots" content="index, follow">
 <title> Halloween's GTAG Tools </title>
+
 </head>
 <body>
 <ul>
@@ -27,51 +28,31 @@
 <!-- <p id="test">test</p> -->
  <p><b>Color Changers:</b></p>
  <div class="sliders">
-   <label id="redLabel">Red: </label> <input type="range" id="RedSlider" min="0" max="255" value="255">
-   <label id="greenLabel">Green: </label> <input type="range" id="GreenSlider" min="0" max="255" value="0">
+   <label id="redLabel">Red: </label><input type="range" id="RedSlider" min="0" max="255" value="255">
+   <label id="greenLabel">Green: </label><input type="range" id="GreenSlider" min="0" max="255" value="0">
     <label id="blueLabel">Blue: </label><input type="range" id="BlueSlider" min="0" max="255" value="0">
  </div>
 
  <p><b>Cosmetic Selectors:</b></p>
  <div class="cosmeticButtons">
-<button onclick="back()" id="backBtn">Back!</button>
-<button onclick="forward()" id="forwardBtn">Forward!</button>
+<p>Hats</p>
+<button onclick="backwardsForHats()">Back!</button>
+<button onclick="forwardForHats()">Forward!</button>
+<p>Badges</p>
+<button onclick="backwardsForBadge()">Back!</button>
+<button onclick="forwardForBadge()">Forward!</button>
  </div>
+ 
  <div class="container">
  <div id="ColorBox"></div>
 <img id="pfp" src="gtagPfp.PNG">
 <!-- <img id="pfp2" src="monke.PNG"> Work In Progress! -->
-<div id="allCos" class="Cosmetics">
-<img id="1" src="Cosmetics/tophat.PNG">
-<img id="2" src="Cosmetics/bananahat.PNG">
-<img id="3" src="Cosmetics/chefshat.PNG">
-<img id="4" src="Cosmetics/cowboyhat.PNG">
-<img id="5" src="Cosmetics/headphones.PNG">
-<img id="6" src="Cosmetics/partyhat.PNG">
-<img id="7" src="Cosmetics/ushanka.PNG">
-<img id="8" src="Cosmetics/fez.PNG">
-<img id="9" src="Cosmetics/pumpkin.PNG"><img id="10"src="Cosmetics/anotheraxiom.PNG">
-<img id="11" src="Cosmetics/fingerpainter.PNG">
- <img id="12" src="Cosmetics/pumpkinpiehat.PNG">
- <img id="13" src="Cosmetics/orangebeanie.PNG">
- <img id="14"
-  src="Cosmetics/bluebeanie.PNG">
- <img id="15" 
-  src="Cosmetics/pattern.PNG">
- <img id="16" 
-  src="Cosmetics/stripe.PNG">
- <img id="17"
-  src="Cosmetics/catears.PNG">
-   <img id="18"
-  src="Cosmetics/santahat.PNG">
-  <img id="19"
-  src="Cosmetics/nosesnowflake.PNG">
-  <img id="20"
-  src="Cosmetics/elfhat.PNG">
- <img id="21"
-  src="Cosmetics/2026glasses.PNG">
+<div id="allHats" class="Hats">
+<img id="hatsImage" src="#">
+<img id="badgesImage" src="#">
 </div>
  </div>
+ 
  <button id="downloadBtn">Download!</button>
  <button id="openBtn"> Open in New Tab!</button>
 <footer>
