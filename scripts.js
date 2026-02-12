@@ -105,7 +105,7 @@ html2canvas(entireEle).then(canvas => {
    <li><a href="cosmeticfinder.html">GSearch</a></li>
 </ul>
 <h2>Here is your profile!</h2>
-<img src="${imgURL}"></img>
+<img src="${imgURL}" style="height: 300px; width: 300px"></img>
 <footer> 
 
 <p>Created by halloween (@hallowween-gtag)</p>
