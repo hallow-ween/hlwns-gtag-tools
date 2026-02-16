@@ -185,7 +185,9 @@ updateHats();
 
 const badges = [
 {image: "Cosmetics/anotheraxiom.PNG"},
-{image: "Cosmetics/fingerpainter.PNG"}
+{image: "Cosmetics/fingerpainter.PNG"},
+{image: "Cosmetics/gt5.PNG"},
+{image: "Cosmetics/EarlyAccess.PNG"}
 ];
 
 const badgesLength = badges.length;
