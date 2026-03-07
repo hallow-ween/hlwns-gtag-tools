@@ -545,5 +545,12 @@
         "price": "5000",
         "source": "cosmetic-img/placeholder.png",
         "group": "holdable"
+    },
+      {
+        "name": "doug the bug",
+        "id": "doug the bug",
+        "price": "0, its a bug",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "bug"
     }
 ]
