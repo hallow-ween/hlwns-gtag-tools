@@ -56,9 +56,12 @@
                updateClicks();
            }, 3000);
        }
+    }
 
+    function theStick() {
+        
 
-   }
+    }
 
 
    function buttonClicked() {

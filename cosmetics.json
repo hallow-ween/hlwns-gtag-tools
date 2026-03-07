@@ -391,5 +391,159 @@
         "price": "2500",
         "source": "cosmetic-img/lmabd.PNG",
         "group": "back"
+    },
+        {
+        "name": "clown set",
+        "id": "",
+        "price": "4500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "set"
+    },
+            {
+        "name": "mummy wrap",
+        "id": "lfaaq",
+        "price": "1500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "paperbag aht",
+        "id": "lhaat",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "pirate bandana",
+        "id": "lhaaz",
+        "price": "1500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+               {
+        "name": "pumpkin hat",
+        "id": "lhaau",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+               {
+        "name": "star princess set",
+        "id": "",
+        "price": "4500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "set"
+    },
+               {
+        "name": "vampire set",
+        "id": "",
+        "price": "4500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "set"
+    },
+               {
+        "name": "werewolf set",
+        "id": "",
+        "price": "4500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "set"
+    },
+               {
+        "name": "witch nose",
+        "id": "lfaap",
+        "price": "1000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "face scarf",
+        "id": "lfaaw",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "maple leaf",
+        "id": "lfaav",
+        "price": "3000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "turkey finger puppet",
+        "id": "lbaaq",
+        "price": "1500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "turkey leg",
+        "id": "lbaap",
+        "price": "3500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "holdable"
+    },
+               {
+        "name": "2022 glasses",
+        "id": "lfaaz",
+        "price": "1500",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "candy candy",
+        "id": "lbaar",
+        "price": "4000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "holdable"
+    },
+               {
+        "name": "elf hat",
+        "id": "lhabg",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+               {
+        "name": "gift hat",
+        "id": "lhabf",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+               {
+        "name": "nose snowflake",
+        "id": "lfaba",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "ornament earrings",
+        "id": "lfaay",
+        "price": "2000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "face"
+    },
+               {
+        "name": "santa",
+        "id": "",
+        "price": "3000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "set"
+    },
+               {
+        "name": "snowman hat",
+        "id": "lhabe",
+        "price": "3000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "hat"
+    },
+              {
+        "name": "sparkler",
+        "id": "lbaas",
+        "price": "5000",
+        "source": "cosmetic-img/placeholder.png",
+        "group": "lbaas"
     }
 ]

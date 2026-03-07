@@ -68,6 +68,14 @@ findCosmetic(input2, "id");
     }
  });
 
- 
+ // EASTER EGGS 🤫🤫🤫
+
+ if (input.value === "seveh" || input2.value === "seveh" ) {
+    cosmeticInfoText.textContent = "the coolest aac out there."
+ }
+
+  if (input.value === "hallowween" || input2.value === "hallowween" ) {
+    cosmeticInfoText.textContent = "Creator of the site and super duper cool"
+ }
 
 

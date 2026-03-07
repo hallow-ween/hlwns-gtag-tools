@@ -16,6 +16,8 @@ const questions = [
     { question: "8. What is the rarest badge in Gorilla Tag?", answer: "admin badge", answer2: null },
     { question: "9. True or False: There are requirements for the Another Axiom Creator Badge?", answer: "false", answer2: null },
     { question: "10. What cosmetic is given to Forest Guides in Gorilla Tag?", answer: "fire stick", answer2: null },
+    { question: "11. What was the first Gorilla Tag seasonal update?", answer: "halloween", answer2: "halloween 2021" },
+    { question: "12. What was the community led event in Gorilla Tag where over one-hundred thousand players joined?", answer: "we are vr", answer2: "wearevr" },
     { question: null, answer: null}
 ];
 questionText.textContent = questions[questionNumber].question;
