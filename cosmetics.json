@@ -254,7 +254,7 @@
     },
         {
         "name": "round sunglasses",
-        "id": "lfaaq",
+        "id": "lfaao",
         "price": "2200",
         "source": "cosmetic-img/placeholder.png",
         "group": "face"
@@ -394,7 +394,7 @@
     },
         {
         "name": "clown set",
-        "id": "",
+        "id": "#",
         "price": "4500",
         "source": "cosmetic-img/placeholder.png",
         "group": "set"
@@ -429,21 +429,21 @@
     },
                {
         "name": "star princess set",
-        "id": "",
+        "id": "#",
         "price": "4500",
         "source": "cosmetic-img/placeholder.png",
         "group": "set"
     },
                {
         "name": "vampire set",
-        "id": "",
+        "id": "#",
         "price": "4500",
         "source": "cosmetic-img/placeholder.png",
         "group": "set"
     },
                {
         "name": "werewolf set",
-        "id": "",
+        "id": "#",
         "price": "4500",
         "source": "cosmetic-img/placeholder.png",
         "group": "set"
@@ -527,7 +527,7 @@
     },
                {
         "name": "santa",
-        "id": "",
+        "id": "#",
         "price": "3000",
         "source": "cosmetic-img/placeholder.png",
         "group": "set"
@@ -544,6 +544,6 @@
         "id": "lbaas",
         "price": "5000",
         "source": "cosmetic-img/placeholder.png",
-        "group": "lbaas"
+        "group": "holdable"
     }
 ]
