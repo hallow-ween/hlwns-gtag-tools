@@ -74,6 +74,11 @@ questionText.textContent = `The correct answer is ${correctAnswer}!`;
 // failedQuestions++;
 // console.log(`you failed ${failedQuestions} questions!`);
 }
+if( userAnswer == "seveh") {
+  questionText.textContent = "Seveh is the GOAT";
+  questionText.style.color = "purple";
+}
+
 }
 
 
