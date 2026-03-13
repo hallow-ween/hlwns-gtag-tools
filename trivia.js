@@ -3,6 +3,8 @@ const answerBox = document.getElementById("userAnswer");
 const enterButton = document.getElementById("enter");
 const finalScore = document.getElementById("finalScore");
 const next = document.getElementById("next");
+// for easter egg
+const logoImg = document.querySelector(".Logo");
 let questionNumber = 0;
     
 const questions = [
@@ -74,11 +76,24 @@ questionText.textContent = `The correct answer is ${correctAnswer}!`;
 // failedQuestions++;
 // console.log(`you failed ${failedQuestions} questions!`);
 }
+
+
+
+
+// EASTER EGGS! ( No Peaking 👀 )
 if( userAnswer == "seveh") {
   questionText.textContent = "Seveh is the GOAT";
   questionText.style.color = "purple";
 }
 
+if( userAnswer == "autumn" || userAnswer == "lizrd") {
+  questionText.textContent = "Autumnal Hills is an AWESOME map! Enjoy your easter egg :)";
+  questionText.style.color = "white";
+  questionText.classList.add("easterEggAnim");
+  logoImg.src = "autumn.png";
+  logoImg.style.length = "auto";
+  logoImg.style.width = "auto";
+}
 }
 
 

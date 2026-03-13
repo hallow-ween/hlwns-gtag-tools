@@ -245,4 +245,12 @@ footer {
     animation: opacity 0.2s ease;
 }
 
-
+@keyframes autumnHills {
+  0% {color: #D56C6C;}
+  50% {color: #D59A6C;}
+  75% {color: #D5BB6C;}
+  100% {color: #D56C6C;}
+}
+.easterEggAnim {
+  animation: autumnHills 3s infinite;
+}

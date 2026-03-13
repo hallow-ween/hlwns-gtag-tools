@@ -67,7 +67,6 @@
    function buttonClicked() {
        clicks += addedClicks;
        clickButton.classList.remove("opacity");
-       void clickButton.offsetHeight;
        clickButton.classList.add("opacity");
  let critChance = 0;
 critChance += Math.floor(Math.random() * 100);
