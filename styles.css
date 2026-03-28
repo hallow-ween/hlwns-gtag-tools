@@ -1,256 +1,203 @@
+
 @font-face {
-  font-family: Pixel;
-  src: url(Minecraft.ttf);
-}
-
-
-body {
-display: flex;
-flex-direction: column;
-align-items: center;
-margin: 0;
- }
-
-.rgbbox {
-position: relative;
-width: 300px;
-height: 100px;
-border-radius: 10px;
-border: 2px solid black;
-display: flex;
-flex-direction: column;
-align-items: center;
-
-}
-
-#rbgtext {
-padding: 10px;
-text-align: center;
-}
-
-* {
-font-family: pixel;
-color: white;
-gap: 10px;
+    font-family: minecraft;
+    src: url(Minecraft.ttf);
 }
 
 body {
-background-color: #2C4754;
-}
-input {
-width: 200px;
-height: auto;
-color: black;
-}
-
-button {
-width: 200px;
-height: 50px;
-border: 1px solid black;
-padding: 5px;
-color: black;
-font-size: 20px;
+    background-color: #282828;
+    font-family: minecraft;
+    color: #aba9b4;
+    
+     
 }
 
-.container  {
-position: relative;
-width: 300px;
-height: 300px;
+.backBtn {
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    color: #aba9b4;
 }
 
-.Hats img {
-position: absolute;
-width: 100%;
-height: 100%;
-z-index: 3;
-}
+.container {
+    width: 45%;
+    height: 500px;
 
-
-#ColorBox {
-position: absolute;
-width: 100%;
-height: 100%;
-background-color: rgb(125, 125, 125);
-z-index: 1;
-}
-
-#pfp, #pfp2 {
-position: absolute;
-width: 100%;
-height: 100%;
-top: 0;
-left: 0;
-z-index: 2;
-
-}
-
-.sliders {
-display: flex;
-flex-direction: column;
-gap: 5px;
-}
-
-.Logo {
-position: absolute;
-top: 0px;
-right: 0px;
-height: 40px;
-width: 40px;
+    
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin: 0 auto;
+     padding: 20px;
+     padding-left: 20px;
+     padding-right: 20px;
+     border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 25px 5px #1d1c1f;
+    position: relative;
+    
+     background-color: #2F2D33;
+    
 }
 
 
-#redLabel {
-color: rgb(255, 0, 0);
-}
 
-#greenLabel {
-color: rgb(0, 255, 0);
-}
-
-#blueLabel {
-color: rgb(0, 0, 255);
-}
-
-.cosmeticButtons button {
-width: 100px;
-height: 25px;
-border: 1px solid black;
-padding: 5px;
-color: black;
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+     padding: 20px;
+     padding-left: 20px;
+     padding-right: 20px;
+     border-radius: 10px;
+     gap: 15px;
 }
 
 
-#redC {
-color: rgb(255, 0, 0);
+.mini-container {
+    position: relative;
+    background-color: #282828;
+    border-left: 5px solid #aba9b4;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: max-content;
+    height:max-content;
+
+
 }
 
-#greenC {
-color: rgb(0, 255, 0);
-}
-
-#blueC {
-color: rgb(0, 0, 255);
-}
-
-
-ul {
-list-style-type: none;
-margin: 0px;
-padding: 0px;
-overflow: hidden;
-background-color: #1f313b;
-width: 100%;
-height: auto;
-}
-
-ul li {
-float: left;
-}
-
-ul li a {
-display: block;
-text-align: center;
-color: white;
-padding: 8px 8px;
-text-decoration: none;
-}
-
-ul li a:hover {
-background-color: #0c1f25;
-}
-
-.qotdBox {
-background-image: url(motd.PNG);
-background-size: cover;
-width: 300px;
-height: 400px;
-}
-
-.qotdt {
-color: white;
-}
-
-#quoteEle {
-padding: auto;
-text-align: center; 
-}
-
-#headqotd {
-
-padding: auto;
-text-align: center; 
-}
-
-.card {
-width: 300px;
-height: auto;
-border: 2px solid #5789a4;
-border-radius: 5px;
-padding-top: 10px;
-background-color: #3c6073;
-box-shadow: 0 4px 8px #062535;
-}
-
-.card:hover {
-box-shadow: 0 12px 24px #062535;
+.mini-content {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    
 }
 
 
-.imagecont {
-height: 200px;
-width: 200px;
+.mini-content h3:hover, .mini-content p:hover {
+opacity: 0.75;
 }
 
-.profile {
-height: 200px;
-width: 200px;
-display: block;
-margin-left: 50px;
-margin-right: 10px;
+.bottom-text {
+    width: auto;
+    height: 35px;
+    position: absolute;
+    bottom: 0;
+    right: 51.5%;
+    font-size: 15px;
 }
 
-.containerpf p {
-  text-align: center;
+.pfpimg {
+    border-radius: 50%;
+    height: 50px;
+
 }
 
-a {
-  text-decoration: none;
+
+
+.links {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    position: absolute;
+    top: 0px;
+    right: 50px;
 }
 
-footer {
-  font-size: 10px;
-  position: static;
-  padding-top: 300px;
-  bottom: 0;
+#addBtn {
+    font-family: Minecraft;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #6363ed;
+    color: #ffffff;
+    border-style: hidden;
+    font-size: 15px;
 }
 
-.disclaimer {
-  font-size: 7px;
+.socials img {
+    width: 25px;
+    height: 25px;
 }
 
-@keyframes opacity {
-
-    0% {
-        opacity: 1;
- 
-    }
-
-    100% {
-        opacity: 0.5;
-      
-    }
+.socials {
+ display: flex;
+ flex-direction: row;
+ position: absolute;
+ bottom: 0;
+ right: 0;
+ gap: 10px;
+ margin-right: 5px;
+ margin-bottom: 5px;
 }
 
-.opacity {
-    animation: opacity 0.2s ease;
+@keyframes textGlow {
+from { text-shadow: 0 0 5px #d5d5d5, 0 0 10px #a7a7a7, 0 0 15px #7f7f7f;}
+to { text-shadow: 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #fff;}
 }
 
-@keyframes autumnHills {
-  0% {color: #D56C6C;}
-  50% {color: #D59A6C;}
-  75% {color: #D5BB6C;}
-  100% {color: #D56C6C;}
+h2 {
+    color: white;
+    animation: textGlow 1s ease-in-out infinite alternate ;
+} 
+
+
+
+
+@media (max-width: 800px) {
+   .container {
+    width: 75%;
+    height: 500px;
+    
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin: 0 auto;
+     padding: 20px;
+     padding-left: 20px;
+     padding-right: 20px;
+     border-radius: 10px;
+    box-sizing: border-box;
+     overflow-x: scroll;
+    
+     background-color: #2F2D33;
+    
 }
-.easterEggAnim {
-  animation: autumnHills 3s infinite;
+
+.bottom-text {
+    position: absolute;
+    bottom: 0;
+    right: 45%;
+}
+}
+
+
+@media (max-width: 450px) {
+   .container {
+    width: 75%;
+    height: 500px;
+    
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin: 0 auto;
+     padding: 20px;
+     padding-left: 20px;
+     padding-right: 20px;
+     border-radius: 10px;
+    box-sizing: border-box;
+    overflow-x: scroll;
+    
+     background-color: #2F2D33;
+    
+}
+
+.bottom-text {
+    position: absolute;
+    bottom: 0;
+    right: 45%;
+}
 }
